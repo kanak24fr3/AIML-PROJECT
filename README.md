@@ -75,6 +75,8 @@ This version:
 - Uses **good structure and spacing**
 - Adds helpful notes and instructions  
 - Sounds like a confident first-year student showing solid understanding
+
+The figues for the given outcome :-
 <img width="800" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/ad110591-8af3-4a07-82fd-e62fff34538d" />
 
 <img width="600" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/b3101979-9e5f-4df0-ba01-0bf12e4f7a91" />
