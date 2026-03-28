@@ -76,13 +76,7 @@ This version:
 - Adds helpful notes and instructions  
 - Sounds like a confident first-year student showing solid understanding
 <img width="800" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/ad110591-8af3-4a07-82fd-e62fff34538d" />
+
 <img width="600" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/b3101979-9e5f-4df0-ba01-0bf12e4f7a91" />
-
-<img width="618" height="596" alt="Screenshot 2026-03-28 at 6 39 03 PM" src="https://github.com/user-attachments/assets/eee70aa2-a690-4617-9868-4c03cb467201" />
-<img width="798" height="498" alt="Screenshot 2026-03-28 at 6 39 11 PM" src="https://github.com/user-attachments/assets/7b50647d-f5ca-4f3e-bdbb-b73596a33011" />
-
-
-
-
 
 
