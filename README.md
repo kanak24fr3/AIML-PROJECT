@@ -76,4 +76,3 @@ This version:
 - Adds helpful notes and instructions  
 - Sounds like a confident first-year student showing solid understanding
 
-Copy-paste this into your `README.md` and you’re all set!
