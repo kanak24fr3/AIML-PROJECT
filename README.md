@@ -79,5 +79,3 @@ This version:
 <img width="800" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/976778bd-f173-4d5d-90b2-4f10eb8d122d" />
 
 
-<img width="600" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/18f87c43-5209-4c6f-a857-6a6d291ef10a" />
-
